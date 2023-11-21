@@ -1,3 +1,3 @@
-# React + TypeScript + Vite + Zustand
+# React + Zustand + TypeScript + Vite 
 
-![javascript-quizz screenshot](/assets/images/javascript-quizz.png "javascript-quizz screenshot")
+![javascript-quizz](public/images/screenshoot.png "javascript-quizz screenshot")
